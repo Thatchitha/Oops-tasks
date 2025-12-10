@@ -1,0 +1,99 @@
+{
+  "questions" : {
+    "Which language is platform-independent?" : {
+      "@type" : "MCQQuestions",
+      "questions" : "Which language is platform-independent?",
+      "points" : 2,
+      "correctAnswer" : "Java",
+      "options" : [ "Java", "C++", "Python", "C#" ]
+    },
+    "Java supports multithreading" : {
+      "@type" : "TrueOrFalseQuestions",
+      "questions" : "Java supports multithreading",
+      "points" : 1,
+      "correctAnswer" : "True"
+    },
+    "____ is the father of Java" : {
+      "@type" : "FillInBlankQuestion",
+      "questions" : "____ is the father of Java",
+      "points" : 3,
+      "correctAnswer" : "James Gosling"
+    },
+    "Which of these is not a Java primitive type?" : {
+      "@type" : "MCQQuestions",
+      "questions" : "Which of these is not a Java primitive type?",
+      "points" : 2,
+      "correctAnswer" : "String",
+      "options" : [ "int", "float", "String", "boolean" ]
+    },
+    "Which keyword is used to inherit a class in Java?" : {
+      "@type" : "MCQQuestions",
+      "questions" : "Which keyword is used to inherit a class in Java?",
+      "points" : 2,
+      "correctAnswer" : "extends",
+      "options" : [ "implements", "extends", "inherits", "super" ]
+    },
+    "Which of these is a valid Java access modifier?" : {
+      "@type" : "MCQQuestions",
+      "questions" : "Which of these is a valid Java access modifier?",
+      "points" : 2,
+      "correctAnswer" : "all of the above",
+      "options" : [ "public", "private", "protected", "all of the above" ]
+    },
+    "What is the default value of a boolean in Java?" : {
+      "@type" : "MCQQuestions",
+      "questions" : "What is the default value of a boolean in Java?",
+      "points" : 1,
+      "correctAnswer" : "false",
+      "options" : [ "true", "false", "0", "null" ]
+    },
+    "Java supports multiple inheritance through classes" : {
+      "@type" : "TrueOrFalseQuestions",
+      "questions" : "Java supports multiple inheritance through classes",
+      "points" : 1,
+      "correctAnswer" : "False"
+    },
+    "The 'final' keyword can be used with classes, methods, and variables" : {
+      "@type" : "TrueOrFalseQuestions",
+      "questions" : "The 'final' keyword can be used with classes, methods, and variables",
+      "points" : 1,
+      "correctAnswer" : "True"
+    },
+    "The 'static' keyword belongs to the object instance" : {
+      "@type" : "TrueOrFalseQuestions",
+      "questions" : "The 'static' keyword belongs to the object instance",
+      "points" : 1,
+      "correctAnswer" : "False"
+    },
+    "'ArrayList' in Java can dynamically grow in size" : {
+      "@type" : "TrueOrFalseQuestions",
+      "questions" : "'ArrayList' in Java can dynamically grow in size",
+      "points" : 1,
+      "correctAnswer" : "True"
+    },
+    "The '____' keyword is used to handle exceptions in Java" : {
+      "@type" : "FillInBlankQuestion",
+      "questions" : "The '____' keyword is used to handle exceptions in Java",
+      "points" : 2,
+      "correctAnswer" : "try"
+    },
+    "Java programs are compiled into '____' before execution" : {
+      "@type" : "FillInBlankQuestion",
+      "questions" : "Java programs are compiled into '____' before execution",
+      "points" : 2,
+      "correctAnswer" : "bytecode"
+    },
+    "The method that runs when a Java program starts is called '____'" : {
+      "@type" : "FillInBlankQuestion",
+      "questions" : "The method that runs when a Java program starts is called '____'",
+      "points" : 2,
+      "correctAnswer" : "main"
+    },
+    "'____' is used to create a new object in Java" : {
+      "@type" : "FillInBlankQuestion",
+      "questions" : "'____' is used to create a new object in Java",
+      "points" : 2,
+      "correctAnswer" : "new"
+    }
+  }
+}
